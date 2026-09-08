@@ -1,0 +1,1 @@
+const t={VITE_CJS_IGNORE_WARNING:"true",VITE_USER_NODE_ENV:"production",VITE_ROOT_DIR:"/Users/xianglei/Desktop/工作/wechago/sudoku-duolingo",BASE_URL:"./",MODE:"production",DEV:!1,PROD:!0,SSR:!1}?"./":"/",s=t.endsWith("/")?t.slice(0,-1):t;function o(t){return t?t.startsWith("http")||t.startsWith("data:")?t:t.startsWith("/")?""===s||"."===s?t:s+t:t:t}export{o as a};
